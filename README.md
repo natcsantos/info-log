@@ -17,4 +17,12 @@ Utilizando fórmulas do excel como SOMASE, SOMA e CONT.SE e os dados abertos pre
 ## Atividade 3 - Usando fórmulas e dados abertos com PowerBI
 Dados da [Atividade 2](#Atividade 2 - Usando fórmulas e dados abertos) transferidos para uma interface feita utilizando a ferramenta PowerBI.<br>
 
-[Acesse meu arquivo no PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZDU3NTU3NDMtZmQwNy00OWVkLWI3MjAtMTcwMDJmMDFiNjkyIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
+[Acesse meu arquivo no PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZDU3NTU3NDMtZmQwNy00OWVkLWI3MjAtMTcwMDJmMDFiNjkyIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)<br>
+
+![image](https://github.com/user-attachments/assets/96e04b7f-292d-4d9d-a49e-ea12b300593b)<br>
+![image](https://github.com/user-attachments/assets/29060a54-22d2-49cc-89df-d0ed13712e05)<br>
+![image](https://github.com/user-attachments/assets/1b439ed1-f026-4c21-bc6d-b4c2844ec152)<br>
+
+
+
+
