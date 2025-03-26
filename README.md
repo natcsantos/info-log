@@ -1,5 +1,5 @@
-# info-log
-Repositório destinado a atividades realizadas nas aulas de Informática Aplicada a Logística.
+# info-log :woman_technologist:
+Repositório destinado a atividades realizadas nas aulas de Informática Aplicada a Logística.  :shipit:
 
 ## Atividade 1 - Apresentação Pessoal
 Atividade feita em grupo para apresentar quem somos e nos enturmarmos com o resto da sala, utilizando ferramentas de apresentação, a escolhida para a execução desse projeto foi o Canva.<br>
