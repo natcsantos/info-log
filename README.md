@@ -1,4 +1,4 @@
-# info-log :woman_technologist:
+# info-log :woman_technologist: 🐈
 Repositório destinado a atividades realizadas nas aulas de Informática Aplicada a Logística.  :shipit:
 
 ## Atividade 1
