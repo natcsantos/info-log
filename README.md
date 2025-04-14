@@ -14,7 +14,7 @@ Atividade feita em grupo para apresentar quem somos e nos enturmarmos com o rest
 ### Despesas pessoais
 Primeira atividade feita utilizando a ferramente Excel e suas fórmulas para observar nossas despesas pessoais. <br>
 
-[Acesse minhas despesas pessoais](https://github.com/natcsantos/info-log/commit/dcb442d9247cfdaf1a4e15061bcc5fe688bde9c0#diff-2436b7169304fec4d7cb77bc5f69994bf2a2a935e33b0c99933c484b295b1c00)
+[Acesse minhas despesas pessoais](https://github.com/natcsantos/info-log/raw/refs/heads/main/Despesas%20pessoais.xlsx)
 
 
 ## Atividade 3 
