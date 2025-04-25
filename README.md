@@ -21,7 +21,7 @@ Primeira atividade feita utilizando a ferramente Excel e suas fórmulas para obs
 ### Usando fórmulas e dados abertos
 Utilizando fórmulas do excel como SOMASE, SOMA e CONT.SE e os dados abertos presentes no link: [Quantidade de alunos estrangeiros por nacionalidade](https://dados.educacao.sp.gov.br/dataset/quantidade-de-alunos-estrangeiros-por-nacionalidade), foi feito o levantamento da quantidade de nacionalidades que estão presentes nas escolas do estado de São Paulo, separando por país, escola e município.<br>
 
-[Acesse meu tratamento de dados.](https://fatecspgov-my.sharepoint.com/:x:/g/personal/natalia_santos103_fatec_sp_gov_br/EdjBRU7wMsJMv3hDdSDO5e4B8omUMS_zOV__uWHUdKhgBw?email=natalia.santos103%40fatec.sp.gov.br&e=x7Qear)
+[Acesse meu tratamento de dados.](https://github.com/natcsantos/info-log/raw/refs/heads/main/Nacionalidades.xlsx)
 
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/5984775c-96c8-4179-90fc-896d01f14b5a" />
 
