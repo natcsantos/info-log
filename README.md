@@ -31,9 +31,7 @@ Dados da [Atividade 3](#Atividade-3) transferidos para uma interface feita utili
 
 [Acesse meu arquivo no PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZDU3NTU3NDMtZmQwNy00OWVkLWI3MjAtMTcwMDJmMDFiNjkyIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)<br>
 
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/96e04b7f-292d-4d9d-a49e-ea12b300593b" />
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/29060a54-22d2-49cc-89df-d0ed13712e05" />
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/1b439ed1-f026-4c21-bc6d-b4c2844ec152" />
+<img width="650" alt="image" src="![image](https://github.com/user-attachments/assets/77421604-5470-4e3f-8ff9-1a76649a4880)" />
 
 ## Atividade 5 
 ### Dados abertos e elaboração de perguntas
