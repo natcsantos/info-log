@@ -29,7 +29,7 @@ Utilizando fórmulas do excel como SOMASE, SOMA e CONT.SE e os dados abertos pre
 ### Usando fórmulas e dados abertos com PowerBI
 Dados da [Atividade 3](#Atividade-3) transferidos para uma interface feita utilizando a ferramenta PowerBI.<br>
 
-[Acesse meu arquivo no PowerBI](https://app.powerbi.com/view?r=eyJrIjoiZDU3NTU3NDMtZmQwNy00OWVkLWI3MjAtMTcwMDJmMDFiNjkyIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)<br>
+[Acesse meu arquivo no PowerBI](https://github.com/natcsantos/info-log/blob/main/Nacionalidades.pbix)<br>
 
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/77421604-5470-4e3f-8ff9-1a76649a4880" />
 
