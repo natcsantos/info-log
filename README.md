@@ -47,6 +47,8 @@ Projeto executado em Power BI utilizando uma base de dados abertos das viagens d
 ## Atividade 6
 ### Regressão linear em Excel e Python
 
+[Acesse a pasta com as bases de dados](https://github.com/natcsantos/info-log/raw/refs/heads/main/regress%C3%B5es%20lineares.zip)
+
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/ab132203-fe1f-481a-9c02-bd45db944c35" />
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/18de305f-e26e-4a0d-b96c-c9657ac4f703" />
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/1383a378-1b50-4d9a-a79d-0a44d1428675" />
