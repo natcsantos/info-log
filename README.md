@@ -49,7 +49,7 @@ Projeto executado em Power BI utilizando uma base de dados abertos das viagens d
 
 [Acesse a pasta com as bases de dados](https://github.com/natcsantos/info-log/raw/refs/heads/main/regress%C3%B5es%20lineares.zip)
 
-Acesse o código da base de dados [Imóveis] </br>
+Acesse o código da base de dados [Imóveis](https://github.com/natcsantos/info-log/raw/refs/heads/main/imovel.ipynb) </br>
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/ab132203-fe1f-481a-9c02-bd45db944c35" /> </br>
 Acesse o código da base de dados [Sorvete] </br>
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/18de305f-e26e-4a0d-b96c-c9657ac4f703" /> </br>
