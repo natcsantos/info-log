@@ -12,7 +12,7 @@ Atividade feita em grupo para apresentar quem somos e nos enturmarmos com o rest
 
 ## Atividade 2
 ### Despesas pessoais
-Primeira atividade feita utilizando a ferramente Excel e suas fórmulas para observar nossas despesas pessoais. <br>
+Primeira atividade feita utilizando a ferramente Excel e suas fórmulas para observar nossas despesas pessoais. </br>
 
 [Acesse minhas despesas pessoais](https://github.com/natcsantos/info-log/raw/refs/heads/main/Despesas%20pessoais.xlsx)
 
@@ -45,7 +45,7 @@ Projeto executado em Power BI utilizando uma base de dados abertos das viagens d
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/67db2db5-025b-4a24-acc2-8a4d9a2ad5f6" />
 
 ## Atividade 6
-### Regressão linear em Excel e Python
+### Regressão linear em Excel e Python utilizando o Google Colab
 
 [Acesse a pasta com as bases de dados](https://github.com/natcsantos/info-log/raw/refs/heads/main/regress%C3%B5es%20lineares.zip)
 
