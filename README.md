@@ -57,9 +57,11 @@ Acesse o código da base de dados [Cerveja](https://github.com/natcsantos/info-l
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/1383a378-1b50-4d9a-a79d-0a44d1428675" /> </br>
 
 ## Atividade 7
-![image](https://github.com/user-attachments/assets/af8e8045-c328-43c5-8fd7-fd661610ae58)
-![image](https://github.com/user-attachments/assets/7ef85a76-ce98-4214-be93-428c0a329698)
-![image](https://github.com/user-attachments/assets/5aa5b810-cdaa-4e22-b537-51243311c2ae)
+
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/af8e8045-c328-43c5-8fd7-fd661610ae58" /> </br>
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/7ef85a76-ce98-4214-be93-428c0a329698" /> </br>
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/5aa5b810-cdaa-4e22-b537-51243311c2ae" /> </br>
+
 
 
 
