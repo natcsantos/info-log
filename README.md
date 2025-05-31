@@ -47,18 +47,18 @@ Projeto executado em Power BI utilizando uma base de dados abertos das viagens d
 ## Atividade 6
 ### Regressão linear em Excel e Python utilizando o Google Colab
 
-[Acesse a pasta com as bases de dados](https://github.com/natcsantos/info-log/raw/refs/heads/main/regress%C3%B5es%20lineares.zip)
+[Acesse a pasta com as bases de dados.](https://github.com/natcsantos/info-log/raw/refs/heads/main/regress%C3%B5es%20lineares.zip)
 
-Acesse o código da base de dados [Imóveis](https://github.com/natcsantos/info-log/raw/refs/heads/main/imovel.ipynb) </br>
+Acesse o código da base de dados [Imóveis.](https://github.com/natcsantos/info-log/raw/refs/heads/main/imovel.ipynb) </br>
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/ab132203-fe1f-481a-9c02-bd45db944c35" /> </br>
-Acesse o código da base de dados [Sorvete](https://github.com/natcsantos/info-log/raw/refs/heads/main/sorvete.ipynb) </br>
+Acesse o código da base de dados [Sorvete.](https://github.com/natcsantos/info-log/raw/refs/heads/main/sorvete.ipynb) </br>
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/18de305f-e26e-4a0d-b96c-c9657ac4f703" /> </br>
-Acesse o código da base de dados [Cerveja](https://github.com/natcsantos/info-log/raw/refs/heads/main/cerveja.ipynb) </br>
+Acesse o código da base de dados [Cerveja.](https://github.com/natcsantos/info-log/raw/refs/heads/main/cerveja.ipynb) </br>
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/1383a378-1b50-4d9a-a79d-0a44d1428675" /> </br>
 
 ## Atividade 7
 
-[Acesse minha atividade](https://github.com/natcsantos/info-log/raw/refs/heads/main/Graf_panela_sorvetes_produtos.xlsx)
+Acesse minha atividade [aqui](https://github.com/natcsantos/info-log/raw/refs/heads/main/Graf_panela_sorvetes_produtos.xlsx) e [aqui](https://github.com/natcsantos/info-log/raw/refs/heads/main/Graf_sandalias_computador.xlsx). </br>
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/af8e8045-c328-43c5-8fd7-fd661610ae58" /> </br>
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/7ef85a76-ce98-4214-be93-428c0a329698" /> </br>
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/5aa5b810-cdaa-4e22-b537-51243311c2ae" /> </br>
