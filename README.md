@@ -58,6 +58,7 @@ Acesse o código da base de dados [Cerveja](https://github.com/natcsantos/info-l
 
 ## Atividade 7
 
+[Acesse minha atividade](https://github.com/natcsantos/info-log/raw/refs/heads/main/Graf_panela_sorvetes_produtos.xlsx)
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/af8e8045-c328-43c5-8fd7-fd661610ae58" /> </br>
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/7ef85a76-ce98-4214-be93-428c0a329698" /> </br>
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/5aa5b810-cdaa-4e22-b537-51243311c2ae" /> </br>
