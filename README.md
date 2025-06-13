@@ -12,7 +12,9 @@ Atividade feita em grupo para apresentar quem somos e nos enturmarmos com o rest
 
 ## Atividade 2
 ### Despesas pessoais
+
 Primeira atividade feita utilizando a ferramente Excel e suas fórmulas para observar nossas despesas pessoais. </br>
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/0860398c-ef10-4cbb-b5d9-ab24f369febd" />
 
 [Acesse minhas despesas pessoais](https://github.com/natcsantos/info-log/raw/refs/heads/main/Despesas%20pessoais.xlsx)
 
