@@ -75,7 +75,10 @@ https://github.com/user-attachments/assets/082084d1-e84e-4693-94ad-478a209ddfa7
 Atividade utilizando o Power Automate
 
 
-https://github.com/user-attachments/assets/61be034b-2907-4345-a110-4eb568ef631e
+https://github.com/user-attachments/assets/a8a155b8-92e3-444b-8eaf-4d46128839de
+
+
+
 
 
 
