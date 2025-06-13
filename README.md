@@ -65,13 +65,18 @@ Acesse minha atividade [aqui](https://github.com/natcsantos/info-log/raw/refs/he
 
 
 ## Atividade 8
-### PowerApps e Power Automate
-
+### PowerApps e Power Automate 
+</br>
+Atividade utilizando o Power Apps
 <p align="left">
   <img src="https://github.com/user-attachments/assets/69cd87b1-452d-4191-8f70-cec0e30840a6#width650" width="650" alt="Atividade no PowerApps">
 </p>
+</br>
 
-
+Atividade usando o Power Automate
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/887fa3dd-734d-4aa7-a0ee-e1188ff98482#width650" width="650" alt="Atividade no PowerAutomate">
+</p>
 
 
 
