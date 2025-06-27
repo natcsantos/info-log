@@ -82,6 +82,11 @@ Atividade utilizando o **Power Automate**
 
 https://github.com/user-attachments/assets/3e6618ab-7185-41aa-9765-3de5c7376a3c
 
+# Atividade Power Apps Prova
+
+
+Uploading Vídeo sem título ‐ Feito com o Clipchamp.mp4…
+
 
 
 
